@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779084083568",
+    "project_id": "signup-f123a",
+    "storage_bucket": "signup-f123a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779084083568:android:601a64e2547961df731fb5",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxnI0XYzbfaZVyDqgfoAM8DU6Q4thW3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
